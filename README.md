@@ -1,11 +1,12 @@
-# RFM69 Library
-[![Build Status](https://travis-ci.org/LowPowerLab/RFM69.svg)](https://travis-ci.org/LowPowerLab/RFM69)
-[![GitHub release](https://img.shields.io/github/release/LowPowerLab/RFM69.svg)](https://github.com/LowPowerLab/RFM69)
-[![GitHub issues](https://img.shields.io/github/issues/LowPowerLab/RFM69.svg)](https://github.com/LowPowerLab/RFM69/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/LowPowerLab/RFM69.svg)](https://github.com/LowPowerLab/RFM69/pulls)
+# RFM69 Library, Tsarcasm flavour
 [![license](https://img.shields.io/github/license/LowPowerLab/RFM69.svg)](https://github.com/LowPowerLab/RFM69/blob/master/LICENSE.txt)
+Modified by Tsarcasm
+
+## Modifications
+This is a fork of the LowPowerLab RFM69 Library. This fork provides a solution for a hardware issue with some rfm69 boards, as well as some other changes specific to my use of the library. You probably shouldn't use this in your own projects since it's unlikely to be kept up to date with the original project repo. 
 
 
+# Original RFM69 Library
 By Felix Rusu, [LowPowerLab.com](http://LowPowerLab.com)
 <br/>
 RFM69 library for RFM69W, RFM69HW, RFM69CW, RFM69HCW (semtech SX1231, SX1231H)
